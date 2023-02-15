@@ -1,13 +1,12 @@
-package bg.softuni.mobilele.model.entity;
+package bg.softuni.mobilele.model.entities;
 
 
-import bg.softuni.mobilele.model.entity.enums.EngineEnum;
-import bg.softuni.mobilele.model.entity.enums.TransmissionEnum;
+import bg.softuni.mobilele.model.enums.EngineEnum;
+import bg.softuni.mobilele.model.enums.TransmissionEnum;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-import org.hibernate.annotations.Type;
 
 import java.math.BigDecimal;
 

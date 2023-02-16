@@ -1,2 +1,2 @@
 INSERT INTO mobilele.users (email, first_name, imageurl, is_active, last_name, password)
-VALUES ('kirokranq@gmail.com', 'Kireca', null, 1, 'Music', 'topsecret');
+VALUES ('kirokranq@gmail.com', 'Kireca', null, 1, 'Music', '90ccb1319b74eba42e90f98fcd1b5ca9cb9103530f57fa8a788a570484d7a535e92828988bac32a2');

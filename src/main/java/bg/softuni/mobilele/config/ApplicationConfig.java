@@ -13,3 +13,4 @@ public class ApplicationConfig {
         return  new Pbkdf2PasswordEncoder();
     }
 }
+
